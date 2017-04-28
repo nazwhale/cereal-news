@@ -1,1 +1,1 @@
-# cheerio-news
+# cereal-news
